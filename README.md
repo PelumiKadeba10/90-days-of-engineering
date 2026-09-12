@@ -35,24 +35,6 @@ The goal is to develop stronger engineering fundamentals, solve problems better,
 
 ---
 
-# 📊 90-Day Scoreboard
-
-| Area           | Target                       | Progress |
-| -------------- | ---------------------------- | -------: |
-| DSA            | 100 problems                 |    0/100 |
-| Git/GitHub     | Foundations-level competency |       0% |
-| Python/OOP     | Stronger fundamentals        |       0% |
-| Backend        | Production-level project     |       0% |
-| PostgreSQL     | Stronger database knowledge  |       0% |
-| Testing        | Practical experience         |       0% |
-| Docker         | Practical experience         |       0% |
-| Linux          | Comfortable                  |       0% |
-| CI/CD          | 1 real pipeline              |       0% |
-| System Design  | Fundamentals                 |       0% |
-| AI Engineering | 1 project                    |       0% |
-
----
-
 # 🗓️ 90-Day Roadmap
 
 ## Phase 1 — Foundations
@@ -232,50 +214,6 @@ Patterns covered:
 | 11    | Nov 27–Dec 3 | AI Application + Deployment     | ⬜      |
 | 12    | Dec 4–10     | DSA + Portfolio                 | ⬜      |
 | Final | Dec 11–12    | 90-Day Review                   | ⬜      |
-
----
-
-# 📚 Weekly Logs
-
-Detailed progress will be recorded in the `progress/` directory.
-
-* Week 1 — Coming soon
-* Week 2 — Coming soon
-* Week 3 — Coming soon
-
----
-
-# 🏁 Final Review
-
-**December 12, 2026**
-
-At the end of the challenge, I will evaluate:
-
-### Technical Growth
-
-* What I can build now that I couldn't build before
-* What concepts I understand better
-* What technical weaknesses remain
-
-### Projects
-
-* What I built
-* What I deployed
-* What engineering decisions I made
-* What problems I solved
-
-### Problem Solving
-
-* Number of DSA problems solved
-* Patterns understood
-* Interview readiness
-
-### Professional Growth
-
-* GitHub quality
-* Portfolio quality
-* CV quality
-* Interview confidence
 
 ---
 
