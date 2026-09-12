@@ -36,7 +36,7 @@ applications with React, Python/Flask, PostgreSQL,
 Supabase, APIs and cloud deployment.
 
 My main goal for these 90 days is to turn that practical
-experience into stronger software engineering fundamentals.
+experience into stronger software engineering fundamentals and projects.
 
 ---
 
@@ -98,20 +98,6 @@ experience into stronger software engineering fundamentals.
 
 *To be updated.*
 
----
-
-## ⏱️ Time Invested
-
-| Area       | Hours |
-| ---------- | ----: |
-| DSA        |     0 |
-| Backend    |     0 |
-| Git/GitHub |     0 |
-| Python/OOP |     0 |
-| Other      |     0 |
-| **Total**  | **0** |
-
----
 
 ## 🎯 Next Week
 
