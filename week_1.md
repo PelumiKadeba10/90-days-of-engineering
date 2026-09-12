@@ -11,6 +11,33 @@
 * [ ] Review HTTP and REST fundamentals
 * [ ] Plan the TeamFlow backend
 
+## 📍 Day 1 Baseline
+
+### Current Confidence
+
+| Area | Confidence / 10 |
+|---|---:|
+| DSA |  |
+| Python |  |
+| OOP |  |
+| Backend |  |
+| SQL/PostgreSQL |  |
+| Git/GitHub |  |
+| Testing |  |
+| Docker |  |
+| Linux |  |
+| System Design |  |
+| AI Engineering |  |
+
+### Current Experience
+
+I already have practical experience building full-stack
+applications with React, Python/Flask, PostgreSQL,
+Supabase, APIs and cloud deployment.
+
+My main goal for these 90 days is to turn that practical
+experience into stronger software engineering fundamentals.
+
 ---
 
 ## 🧠 What I Learned
