@@ -17,17 +17,17 @@
 
 | Area | Confidence / 10 |
 |---|---:|
-| DSA |  |
-| Python |  |
-| OOP |  |
-| Backend |  |
-| SQL/PostgreSQL |  |
-| Git/GitHub |  |
-| Testing |  |
-| Docker |  |
-| Linux |  |
-| System Design |  |
-| AI Engineering |  |
+| DSA | 4 |
+| Python | 6 |
+| OOP | 5 |
+| Backend | 6 |
+| SQL/PostgreSQL | 5 |
+| Git/GitHub | 6 |
+| Testing | 4 |
+| Docker | 3 |
+| Linux | 3 |
+| System Design | 1 |
+| AI Engineering | 1 |
 
 ### Current Experience
 
